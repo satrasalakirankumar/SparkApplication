@@ -1,0 +1,7 @@
+id,client_id,user_id,message,receiver,message_class,message_execution_class,sent_time,received_time,scheduled_time,delivered_time,status,priority,ndnc,sending_org_id,gateway,campaign_id,tags,client_context_id,auto_update_time,message_count,message_sub_class,receiver_meta_info,count(id)
+1.6489E+12,425,505872563,Thank you for shopping at the NIKE Factory Store. We have added 128 points to your MILES Membership. Total available point balance is 128. T&C apply. Mystique,9.17605E+11,SMS,SMS,4/27/2022 16:16,4/27/2022 16:16,4/27/2022 18:16,NULL,Sent,HIGH,0,1983,solutionsinfinitrans,1767,transaction,12997808,4/27/2022 18:47,1,NULL,1,20
+1.6489E+12,425,505855468,Thank you for shopping at the NIKE Factory Store. We have added 236 points to your MILES Membership. Total available point balance is 236. T&C apply. Mystique,9.19819E+11,SMS,SMS,4/27/2022 9:00,4/26/2022 22:02,4/27/2022 9:00,4/27/2022 9:00,Delivered,HIGH,0,1983,solutionsinfinitrans,1767,transaction,12995692,4/27/2022 9:01,1,NULL,1,494
+1.6489E+12,3000,505434227,"Hi!
+Welcome to the JOGGER Tier of MILES Club, here is a coupon Q2OAYDD0 worth Rs 500 valid till 11 Jun 2022. 
+To ensure a safe shopping experience, we've strict hygiene & social distancing measures in place. See you soon at NIKE Factory Store.
+T&C Apply",9.19869E+11,SMS,SMS,4/27/2022 11:24,4/27/2022 11:24,4/27/2022 11:24,4/27/2022 11:28,Not Delivered,HIGH,0,1983,solutionsinfinitrans,-1,highvoltrans,505434227,4/27/2022 11:28,2,NULL,1,53
